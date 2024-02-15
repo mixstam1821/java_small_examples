@@ -1,5 +1,5 @@
 import java.util.Date;
-public class DateDemo {
+public class current_date_time {
 
    public static void main(String args[]) {
       // Instantiate a Date object
